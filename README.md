@@ -1,2 +1,2 @@
 # xsspayloadgen
-Payload generator for XSS
+XSS fuzzer for payload generation and delivery.
