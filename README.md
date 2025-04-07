@@ -6,13 +6,7 @@ It starts with a few base XSS payloads, applies various mutations to create over
 
 ## Mutation Methods
 
-- Unicode encoding
-- HTML entity encoding
-- Hex encoding
-- Base64 with `eval(atob(...))`
-- Breaking up keywords like `alert`
-- Tweaking event handlers (like `onerror`)
-- DOM-based script injection
+Unicode encoding, HTML entity encoding, Hex encoding, Base64 with eval(atob(...)), breaking up keywords like alert, tweaking event handlers (like onerror), DOM-based script injection.
 
 ## How to Use
 
